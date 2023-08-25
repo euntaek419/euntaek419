@@ -14,8 +14,8 @@
 
 <div>
 
-  ### Main Skill
-  
+  ### ✨Main Skill
+
 </div>
 
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -24,7 +24,7 @@
   <img src='https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D'/>
 
 
-##### Sub Skill
+##### 👌Sub Skill
 
 <div>
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
