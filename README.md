@@ -2,7 +2,9 @@
 
 ## 안녕하세요! 프론트엔드 개발자 최은택 입니다 👋
 
-![KakaoTalk_20230825_184107303_05](https://github.com/euntaek419/euntaek419/assets/100109284/afeb686c-2a15-47f5-b07e-0a3cdffa3daf)
+<img width="50%" src="https://github.com/euntaek419/euntaek419/assets/100109284/afeb686c-2a15-47f5-b07e-0a3cdffa3daf"/>
+
+
 
 
 
