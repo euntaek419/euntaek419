@@ -1,11 +1,9 @@
 <div>
 
-<span>
-
 <img width="30%" src="https://github.com/euntaek419/euntaek419/assets/100109284/afeb686c-2a15-47f5-b07e-0a3cdffa3daf"/>
 
-## 안녕하세요! 프론트엔드 개발자 최은택 입니다 👋
-</span>
+## 안녕하세요! <br/> 프론트엔드 개발자 최은택 입니다 👋
+
 
 
 
@@ -14,8 +12,12 @@
 
 <br/>
 
-### Main Skill
-<br/>
+<div>
+
+  ### Main Skill
+  
+</div>
+
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
