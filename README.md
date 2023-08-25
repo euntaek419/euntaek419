@@ -58,7 +58,7 @@
 
   ---
 
-  ### ❤️Special Thank you
+  ### ❤️Special Thanks
   ### 프론트엔드 개발자 최은택의 GitHub를 방문해주신 당신
 
 <!--
