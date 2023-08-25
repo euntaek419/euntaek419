@@ -35,9 +35,12 @@
     <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
   </div>
 
+  <div>
+    
+  ### 👀ect..
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6810779s&layout=compact&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6810779s&layout=compact&theme=tokyonight)
-
+  </div>
 
 <!--
 **euntaek419/euntaek419** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
