@@ -31,15 +31,18 @@
     <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
   </div>
 
-  ### Project
+  ---
+
+  ### 🔥Project
   <div>
 
-
+  https://github.com/euntaek419/your-materials
   </div>
   <div>
     
   ### 👀ect..
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6810779s&layout=compact&theme=tokyonight) 
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=euntaek419&layout=compact&theme=synthwave) 
+  
   ![프로그래머스 23/08/26](https://github.com/euntaek419/euntaek419/assets/100109284/ce3a9cac-0466-459f-87b3-5fb28b341ace)
   <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=euntaek419&show_icons=true&theme=vue-dark) -->
   </div>
