@@ -43,11 +43,12 @@
   ### 🔥Project
   <div>
 
-  강의들을 한 곳에 모아볼 수 있는 커뮤니티 사이트 한데모아 https://github.com/euntaek419/handemoa_ver2
-  그림일기 형식의 세줄일기 사이트 먹구름속무지개 https://github.com/high-life-Team/high-life
-  DNF 게임의 재료 계산 사이트 너의 재료는? https://github.com/euntaek419/your-materials
-  게임 아이템 가격을 현금과 비교해주는 사이트 GameMoneyCalc https://github.com/euntaek419/GameMoneyCalc
+  강의들을 한 곳에 모아볼 수 있는 커뮤니티 사이트 한데모아 https://github.com/euntaek419/handemoa_ver2 <br/>
+  그림일기 형식의 세줄일기 사이트 먹구름속무지개 https://github.com/high-life-Team/high-life <br/>
+  DNF 게임의 재료 계산 사이트 너의 재료는? https://github.com/euntaek419/your-materials <br/>
+  게임 아이템 가격을 현금과 비교해주는 사이트 GameMoneyCalc https://github.com/euntaek419/GameMoneyCalc 
   
+
   </div>
 
   ---
