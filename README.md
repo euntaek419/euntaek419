@@ -5,7 +5,7 @@
   ## 안녕하세요! <br/> 프론트엔드 개발자 최은택 입니다 👋
 
 
-  효율적인 코드 작성에 관심이 많습니다. <br/> 꾸준함의 가치를 알기에 언제나 노력합니다.
+  📃효율적인 코드 작성에 관심이 많습니다. <br/> 🕛꾸준함의 가치를 알기에 언제나 노력합니다.
 
   <div>
 
@@ -33,7 +33,7 @@
   <div>
     
   ### 👀ect..
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=euntaek419&layout=compact&theme=synthwave) 
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=euntaek419&layout=compact&theme=vue-dark) 
   ![프로그래머스 23/08/26](https://github.com/euntaek419/euntaek419/assets/100109284/ce3a9cac-0466-459f-87b3-5fb28b341ace)
   <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=euntaek419&show_icons=true&theme=vue-dark) -->
   </div>
