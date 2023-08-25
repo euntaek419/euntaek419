@@ -2,13 +2,16 @@
 
 ## 안녕하세요! 프론트엔드 개발자 최은택 입니다 👋
 
+![KakaoTalk_20230825_184107303_05](https://github.com/euntaek419/euntaek419/assets/100109284/afeb686c-2a15-47f5-b07e-0a3cdffa3daf)
+
+
 
 ### 효율적인 코드 작성에 관심이 많습니다. 
 ### 꾸준함의 가치를 알기에 언제나 조금씩이라도 노력합니다.
 
 <br />
 
-Main Skill
+##### Main Skill
 <div>
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -17,7 +20,7 @@ Main Skill
 </div>
 
 
-Sub Skill
+##### Sub Skill
 
 <div>
   <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
