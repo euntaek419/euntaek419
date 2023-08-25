@@ -1,6 +1,6 @@
 ### 안녕하세요 프론트엔드 개발자 최은택 입니다 👋
 
-<img alt="Vue.js" src ="https://img.shields.io/badge/Vue.js-#4FC08D.svg?&style=for-the-badge&logo=Vue.js&logoColor=#4FC08D"/>
+<img alt="Vue.js" src ='https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D'/>
 
 <!--
 **euntaek419/euntaek419** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
