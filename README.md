@@ -35,6 +35,7 @@
   ### 👀ect..
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6810779s&layout=compact&theme=tokyonight) 
   ![프로그래머스](https://github.com/euntaek419/euntaek419/assets/100109284/ce3a9cac-0466-459f-87b3-5fb28b341ace)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=euntaek419&show_icons=true&theme=vue-dark)
   </div>
 
 <!--
