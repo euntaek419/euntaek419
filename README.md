@@ -47,9 +47,9 @@
   </div>
 
   ---
-  
+
   ### ❤️Special Thank you
-  이 GitHub를 방문해주신 당신
+  개발자 최은택의 GitHub를 방문해주신 당신
 
 <!--
 **euntaek419/euntaek419** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
