@@ -45,7 +45,6 @@
   ---
 
   ### 🔥Project
-  <div>
 |Project|Information|URL|
 |---|---|---|
 |한데모아 by Team 파이팀|강의들을 한 곳에 모아볼 수 있는 커뮤니티 사이트|https://github.com/euntaek419/handemoa_ver2|
@@ -53,9 +52,6 @@
 |너의 재료는? by euntaek419|DNF 게임의 재료 계산 사이트|https://github.com/euntaek419/your-materials|
 |GameMoneyCalc by euntaek419|게임 아이템 가격을 현금과 비교해주는 사이트|https://github.com/euntaek419/GameMoneyCalc|
 |ComHub by Team Vue 개발방|유머 커뮤니티 사이트|이후 게재|
-  
-
-  </div>
 
   ---
 
