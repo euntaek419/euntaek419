@@ -42,9 +42,12 @@
 
   ### 🔥Project
   <div>
-
+  강의들을 한 곳에 모아볼 수 있는 커뮤니티 한데모아
   https://github.com/euntaek419/your-materials
   </div>
+
+  ### ❤️Specail Thank you
+  이 GitHub를 방문해주신 당신
 
 <!--
 **euntaek419/euntaek419** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -60,5 +63,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+  
+  
 </div>
