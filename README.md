@@ -47,11 +47,11 @@
   ### 🔥Project
   <div>
 
- |한데모아 (Team 파이팀) | 강의들을 한 곳에 모아볼 수 있는 커뮤니티 사이트 https://github.com/euntaek419/handemoa_ver2 |
- | 먹구름속무지개 (Team HIGH LIFE) | 그림일기 형식의 세줄일기 사이트 https://github.com/high-life-Team/high-life | 
- | 너의 재료는? (개인) | DNF 게임의 재료 계산 사이트 https://github.com/euntaek419/your-materials |
- | GameMoneyCalc (개인) | 게임 아이템 가격을 현금과 비교해주는 사이트 https://github.com/euntaek419/GameMoneyCalc |
- | ComHub (Team Vue 개발방) | 유머 커뮤니티 사이트 (곧 링크 게재) |
+ |한데모아 (Team 파이팀)|강의들을 한 곳에 모아볼 수 있는 커뮤니티 사이트 https://github.com/euntaek419/handemoa_ver2|
+ |먹구름속무지개 (Team HIGH LIFE)|그림일기 형식의 세줄일기 사이트 https://github.com/high-life-Team/high-life| 
+ |너의 재료는? (개인)|DNF 게임의 재료 계산 사이트 https://github.com/euntaek419/your-materials|
+ |GameMoneyCalc (개인)|게임 아이템 가격을 현금과 비교해주는 사이트 https://github.com/euntaek419/GameMoneyCalc|
+ |ComHub (Team Vue 개발방)|유머 커뮤니티 사이트 (곧 링크 게재)|
   
 
   </div>
