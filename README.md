@@ -46,6 +46,8 @@
   https://github.com/euntaek419/your-materials
   </div>
 
+  ---
+  
   ### ❤️Special Thank you
   이 GitHub를 방문해주신 당신
 
