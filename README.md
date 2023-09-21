@@ -7,11 +7,9 @@
 
   효율적인 코드 작성에 관심이 많습니다. <br/> 꾸준함의 가치를 알기에 언제나 노력합니다. <br/> 함께 성장하길 원합니다.
 
-  <div>
+  
 
   ### ✨Main Skill
-  
-  </div>
 
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
