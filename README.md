@@ -1,5 +1,3 @@
-<div>
-
   <img width="30%" src="https://github.com/euntaek419/euntaek419/assets/100109284/afeb686c-2a15-47f5-b07e-0a3cdffa3daf"/>
 
   ## 안녕하세요! <br/> 프론트엔드 개발자 최은택 입니다 👋
@@ -71,6 +69,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-  
-  
-</div>
