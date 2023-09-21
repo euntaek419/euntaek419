@@ -2,14 +2,14 @@
     <img width="30%" src="https://github.com/euntaek419/euntaek419/assets/100109284/afeb686c-2a15-47f5-b07e-0a3cdffa3daf"/>
   </div>
 
-  <h2> 안녕하세요! <br/> 프론트엔드 개발자 최은택 입니다 👋 </h2>
+  ## 안녕하세요! <br/> 프론트엔드 개발자 최은택 입니다 👋
 
 
   효율적인 코드 작성에 관심이 많습니다. <br/> 꾸준함의 가치를 알기에 언제나 노력합니다. <br/> 함께 성장하길 원합니다.
 
   
 
-  <h3> ✨Main Skill </h3>
+  ### ✨Main Skill 
 
   <div>
 
@@ -20,7 +20,7 @@
 
   </div>
 
-  <h3> 👌Sub Skill </h3>
+  ### 👌Sub Skill
 
   <div>
     <img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white">
