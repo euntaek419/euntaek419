@@ -8,7 +8,8 @@
   항상 사용자의 경험을 생각하여 프로젝트 리팩토링을 진행하며 로딩 속도 최적화 및 애니메이션에 관심이 많습니다. <br/>
   꾸준함의 가치를 알기에 위 사항을 지키며 1일 1커밋에 노력합니다. <br/>
 
-  ### ✨Main Skill 
+  ### ✨Main Skill
+
 
   <div>
 
@@ -35,7 +36,7 @@
     
   ### 👀 Github / Programmers Score
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=euntaek419&layout=compact&theme=vue-dark)
-  ![프로그래머스_23/12/30](https://github.com/euntaek419/euntaek419/assets/100109284/be50d294-15ec-4169-bb68-039bbdb4deae)
+  ![프로그래머스 24/02/29](https://github.com/euntaek419/euntaek419/assets/100109284/2c4dcb94-a3b8-4fee-940c-fd30637a386d)
   ![Euntaek419's GitHub stats](https://github-readme-stats.vercel.app/api?username=euntaek419&show_icons=true&theme=vue-dark)
 
   ### 📚Today I Learn
