@@ -4,9 +4,8 @@
 
   ## 안녕하세요! <br/> 프론트엔드 개발자 최은택입니다 👋
 
-
-  효율적인 코드 작성에 관심이 많아서 프로그래머스 코딩 테스트 공부를 자주 합니다. <br/>
-  항상 사용자의 경험을 생각하여 프로젝트 리팩토링을 진행하며 로딩 속도 최적화와 애니메이션에 관심이 많습니다. <br/>
+  최대한 짧지만, 누구나 읽기 편리한 코드를 추구하고 있으며, 이를 위해서 프로그래머스 코딩 테스트 공부를 지속적으로 합니다. <br/>
+  항상 사용자의 경험을 생각하여 프로젝트 리팩토링을 진행하며 로딩 속도 최적화 및 애니메이션에 관심이 많습니다. <br/>
   꾸준함의 가치를 알기에 위 사항을 지키며 1일 1커밋에 노력합니다. <br/>
 
   ### ✨Main Skill 
@@ -37,8 +36,7 @@
   ### 👀ect..
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=euntaek419&layout=compact&theme=vue-dark)
   ![프로그래머스_23/12/30](https://github.com/euntaek419/euntaek419/assets/100109284/be50d294-15ec-4169-bb68-039bbdb4deae)
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=euntaek419&show_icons=true&theme=vue-dark)
-  
+  ![Euntaek419's GitHub stats](https://github-readme-stats.vercel.app/api?username=euntaek419&show_icons=true&theme=vue-dark)
 
   ### 📚Today I Learn
   https://github.com/euntaek419/EunTaek-TIL
