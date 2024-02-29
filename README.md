@@ -34,7 +34,7 @@
   </div>
   <div>
     
-  ### 👀 Github / Programmers Score
+  ### 👀 Github Stats / Programmers Score
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=euntaek419&layout=compact&theme=vue-dark)
   ![프로그래머스 24/02/29](https://github.com/euntaek419/euntaek419/assets/100109284/2c4dcb94-a3b8-4fee-940c-fd30637a386d)
   ![Euntaek419's GitHub stats](https://github-readme-stats.vercel.app/api?username=euntaek419&show_icons=true&theme=vue-dark)
