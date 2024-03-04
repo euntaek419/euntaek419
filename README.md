@@ -53,7 +53,7 @@
 |먹구름속무지개 <br/> by Team HIGH LIFE|Close|그림일기 형식의 세줄일기 사이트|https://github.com/high-life-Team/high-life|
 |너의 재료는? <br/> by euntaek419|Close|DNF 게임의 아이템 재료 계산 사이트 (정가 계산기)|https://github.com/euntaek419/your-materials|
 |OliveYoung <br/> by Team 올리브영 프로젝트|Close|올리브영 카피 사이트|https://github.com/TomHoon/OliveYoung_Frontend|
-|GameMoneyCalc <br/> by euntaek419|OPEN|게임 아이템 가격을 현금과 비교해주는 사이트|https://github.com/euntaek419/GameMoneyCalc|
+|GameMoneyCalc <br/> by euntaek419|Open|게임 아이템 가격을 현금과 비교해주는 사이트|https://github.com/euntaek419/GameMoneyCalc|
 |ComHub <br/> by Team Vue 개발방 <br/> | OPEN / Backend instance is not always running. |자유로운 소통 커뮤니티 사이트|https://github.com/TomHoon/CommunityProject|
 
   ---
