@@ -52,7 +52,7 @@
 |한데모아 <br/> by Team 파이팀|카테고리별 자료추천 랭킹 서비스 커뮤니티 사이트|https://github.com/euntaek419/handemoa_ver2|
 |먹구름속무지개 <br/> by Team HIGH LIFE|그림일기 형식의 세줄일기 사이트|https://github.com/high-life-Team/high-life|
 |너의 재료는? <br/> by euntaek419|DNF 게임의 아이템 재료 계산 사이트 (정가 계산기)|https://github.com/euntaek419/your-materials|
-|GameMoneyCalc <br/> by euntaek419|게임 아이템 가격을 현금과 비교해주는 사이트|https://github.com/euntaek419/GameMoneyCalc_js|
+|GameMoneyCalc <br/> by euntaek419|게임 아이템 가격을 현금과 비교해주는 사이트|https://github.com/euntaek419/GameMoneyCalc|
 |ComHub <br/> by Team Vue 개발방|자유로운 소통 커뮤니티 사이트|https://github.com/TomHoon/CommunityProject|
 |OliveYoung <br/> by Team 올리브영 프로젝트|올리브영 카피 사이트|https://github.com/TomHoon/OliveYoung_Frontend|
 
