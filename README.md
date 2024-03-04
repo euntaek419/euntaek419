@@ -54,7 +54,7 @@
 |너의 재료는? <br/> by euntaek419|배포 종료|DNF 게임의 아이템 재료 계산 사이트 (정가 계산기)|https://github.com/euntaek419/your-materials|
 |OliveYoung <br/> by Team 올리브영 프로젝트|배포 종료|올리브영 카피 사이트|https://github.com/TomHoon/OliveYoung_Frontend|
 |GameMoneyCalc <br/> by euntaek419|배포 중|게임 아이템 가격을 현금과 비교해주는 사이트|https://github.com/euntaek419/GameMoneyCalc|
-|ComHub <br/> by Team Vue 개발방 <br/> |배포 중 <br/> 백엔드 인스턴스 <br/> 상시가 아님|자유로운 소통 커뮤니티 사이트|https://github.com/TomHoon/CommunityProject|
+|ComHub <br/> by Team Vue 개발방 <br/> |배포 중 <br/> 백엔드 <br/> 인스턴스 <br/> 상시 아님|자유로운 소통 커뮤니티 사이트|https://github.com/TomHoon/CommunityProject|
 
   ---
 
