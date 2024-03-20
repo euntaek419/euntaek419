@@ -58,6 +58,7 @@
 
   ---
 
+                                                [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)                    
   ### ❤️Special Thanks
   ### 프론트엔드 개발자 최은택의 GitHub를 방문해주신 당신
 
